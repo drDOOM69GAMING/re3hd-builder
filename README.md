@@ -1,3 +1,6 @@
+<img width="1713" height="2072" alt="Untitled" src="https://github.com/user-attachments/assets/a05922e7-919d-4513-8ac5-89c33cfca458" />
+
+
 # RE3HD Builder
 
 ![Rust](https://img.shields.io/badge/rust-stable-orange?style=flat-square&logo=rust)
